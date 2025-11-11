@@ -1,11 +1,10 @@
-<img width="803" height="277" alt="image" src="https://github.com/user-attachments/assets/6598ed50-6691-4d12-a332-9e9843f7b88c" />
+
 
 # 🧠 Detecting Parkinson's Disease through Spiral Images.
 – A Reliable AI Model with 80% Accuracy
 
 ---
-![Confusion Matrix](https://raw.githubusercontent.com/yourusername/Parkonix/main/images/confusion_matrix.png)
-
+<img width="803" height="277" alt="image" src="https://github.com/user-attachments/assets/6598ed50-6691-4d12-a332-9e9843f7b88c" />
 
 ## 🌍 About the Project
 
