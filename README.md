@@ -4,7 +4,6 @@
 – A Reliable AI Model with 80% Accuracy
 
 ---
-<img width="803" height="277" alt="image" src="https://github.com/user-attachments/assets/6598ed50-6691-4d12-a332-9e9843f7b88c" />
 
 ## 🌍 About the Project
 
@@ -12,6 +11,8 @@
 It is based on the research paper *“Automated Parkinson’s Disease Detection Based on Handwriting Movement”* by **Rigas et al.**, which showed that a person’s hand movements can reveal early signs of Parkinson’s disease.
 
 This project uses **Google’s Teachable Machine**, a no-code platform, to train the model. The trained model achieves **83% accuracy** in identifying Parkinson’s-related movement patterns.
+
+<img width="803" height="277" alt="image" src="https://github.com/user-attachments/assets/6598ed50-6691-4d12-a332-9e9843f7b88c" />
 
 ---
 
