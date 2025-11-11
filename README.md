@@ -3,7 +3,6 @@
 # 🧠 Detecting Parkinson's Disease through Spiral Images.
 – A Reliable AI Model with 80% Accuracy
 
----
 
 ## 🌍 About the Project
 
@@ -24,7 +23,7 @@ Doctors often use **handwriting tests**, like drawing spirals or waves, to obser
 Over the years, researchers have found that analyzing these sketches with **machine learning** can reveal subtle movement changes that humans may miss.
 Parkinaix builds on this idea — combining **medical research** with **AI-powered image recognition** to create a fast and non-invasive detection tool.
 
----
+
 
 ## ⚙️ Key Highlights
 
@@ -34,7 +33,7 @@ Parkinaix builds on this idea — combining **medical research** with **AI-power
 * ⚡ Fast, lightweight, and easy to integrate into apps.
 * 🧩 Can be retrained with your own dataset for improved performance.
 
----
+
 
 ## 🚀 How It Works
 
@@ -105,7 +104,7 @@ gatherUsageStats = false
 * **Accuracy per Epoch** – Displays model improvement per training round
 * **Loss per Epoch** – Indicates how much the model’s predictions improved
 
----
+
 
 ## 🌐 Deployment Resources
 
