@@ -113,14 +113,6 @@ gatherUsageStats = false
 
 ---
 
-## 📚 Research References
-
-* Rigas, G., Tzallas, A. T., et al. *Automated Parkinson’s Disease Detection Based on Handwriting Movement.*
-* Saboor, A., et al. *Spiral Drawing Test for Parkinson’s Disease Detection Using AI-Based Analysis.*
-* Google Teachable Machine Documentation – [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/)
-
----
-
 ## ⭐ Acknowledgment
 
 This project is inspired by ongoing research in **AI-assisted healthcare** and **neurological disease detection**.
@@ -132,7 +124,3 @@ Special thanks to the research community working toward **early diagnosis** and 
 
 If you found this helpful, please **star ⭐ this repository**.
 Your support encourages more open-source health-tech projects like Parkinaix!
-
----
-
-Would you like me to make this version sound **more academic (for portfolio or publication)** or keep it **more casual and beginner-friendly (for GitHub readers and students)?**
