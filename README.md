@@ -97,12 +97,24 @@ gatherUsageStats = false
 
 ---
 
-## 📈 Model Performance
+## ⭐ Few images illustrating model performance
 
-* **Confusion Matrix** – Evaluates correct vs. incorrect predictions
-* **Accuracy per Class** – Shows how well the model performs for each label
-* **Accuracy per Epoch** – Displays model improvement per training round
-* **Loss per Epoch** – Indicates how much the model’s predictions improved
+## `Confusion Matrix`
+> ![Teachable Machine](./Images/confusion_matrix.png)
+</b></b>
+
+## `Accuracy Per Class`
+> ![Teachable Machine](./Images/accuracy_per_class.jpg)
+</b></b>
+
+## `Accuracy Per Epoch`
+> ![Teachable Machine](./Images/accuracy_per_epoch.png)
+</b></b>
+
+## `Loss Per Epoch`
+> ![Teachable Machine](./Images/loss_per_epoch.png)
+
+<br>
 
 
 
